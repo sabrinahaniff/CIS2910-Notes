@@ -1,4 +1,4 @@
-# Discrete Structures Notes (CIS 2910)
+# Discrete Structures Notes (CIS*2910)
 
 Comprehensive notes for Discrete Structures, written in Obsidian.
 
