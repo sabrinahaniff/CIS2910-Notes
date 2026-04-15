@@ -8,52 +8,27 @@ Comprehensive notes for Discrete Structures, written in Obsidian.
 
 ## Table of Contents
 
-### 1️ [[01-Sequences/sequences| Sequences]]
-- Geometric & Arithmetic Progressions
-- Recurrence Relations
-- Fibonacci Sequence
-- [[01-Sequences/summation-notation|Summation & Product Notation]]
-- [[01-Sequences/sequences-susanne|Sequences (Susanne's Notes)]]
+### 1️ Sequences
+- [Sequences](01-Sequences/Sequences.md)
+- [Summation Notation](01-Sequences/Summation%20Notation.md)
 
-### 2️ [[02-Number-Theory/number-theory| Number Theory]]
-- Division & Divisibility
-- Modular Arithmetic
-- Primes & GCD
-- Euclidean Algorithm
-- Bézout's Theorem
+### 2️ Number Theory
+- [Number Theory](02-Number-Theory/Number%20Theory.md)
 
-### 3️ [[03-Counting/counting| Counting]]
-- Product Rule & Sum Rule
-- Division Rule
-- Pigeonhole Principle
+### 3️ Counting
+- [Counting](03-Counting/Counting.md)
 
-### 4️ [[04-Permutations-Combinations/binomial-theorem| Permutations & Combinations]]
-- $r$-Permutations
-- Combinations
-- Binomial Theorem
-- Pascal's Identity
-- Vandermonde's Identity
+### 4️ Permutations & Combinations
+- [Binomial Theorem](04-Permutations-Combinations/Binomial%20Theorem.md)
 
-### 5️ [[05-Mathematical-Induction/practice-midterm| Mathematical Induction]]
-- Principle of Mathematical Induction
-- Basis Step & Inductive Step
-- Practice Problems
+### 5️ Mathematical Induction
+- [Practice Midterm](05-Mathematical-Induction/Midterm.md)
 
-### 6️ [[06-Probability/discrete-probability| Discrete Probability]]
-- Probability Distributions
-- Conditional Probability
-- Independence
-- Random Variables
-- Binomial & Hypergeometric Distributions
-- Expected Value
+### 6️ Probability
+- [Discrete Probability](06-Probability/Discrete%20Probability.md)
 
-### 7️7 [[07-Graphs/graph-theory| Graph Theory]]
-- Graph Definitions & Types
-- Directed vs Undirected
-- Handshake Lemma
-- Special Graphs (Complete, Cycles, Wheels, Hypercubes)
-- Bipartite Graphs
-- Isomorphism
+### 7️ Graph Theory
+- [Graph Theory](07-Graphs/Graph%20Theory.md)
 
 ---
 
@@ -82,7 +57,7 @@ $$2m = \sum_{v \in V} \deg(v)$$
 
 ---
 
-## 🛠️ How to Use These Notes
+##  How to Use These Notes
 
 1. **Clone this repo:**
 ```bash
