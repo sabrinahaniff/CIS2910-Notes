@@ -99,3 +99,5 @@ Feel free to:
 ---
 
 *Last updated: [April 14th, 2026]*
+
+Also, please feel free to use these notes for studying!
