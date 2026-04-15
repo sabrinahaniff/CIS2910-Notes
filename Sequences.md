@@ -1,4 +1,4 @@
-##Sequences
+## Sequences
 
 > A sequence is a **discrete structure** used to represent an ordered list.
 > - "Discrete" = not continuous
