@@ -61,7 +61,7 @@ $$2m = \sum_{v \in V} \deg(v)$$
 
 1. **Clone this repo:**
 ```bash
-   git clone https://github.com/sabrinahaniff/CIS2910.git
+   git clone https://github.com/sabrinahaniff/CIS2910-Notes.git
 ```
 
 2. **Open in Obsidian:**
