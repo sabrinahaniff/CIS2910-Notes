@@ -2,7 +2,7 @@
 
 Comprehensive notes for Discrete Structures, written in Obsidian.
 
-> **Best viewed in [Obsidian](https://obsidian.md)** — supports math rendering and internal links.
+> **Best viewed in [Obsidian](https://obsidian.md)** - supports math rendering and internal links.
 
 ---
 
