@@ -8,38 +8,38 @@ Comprehensive notes for Discrete Structures, written in Obsidian.
 
 ## Table of Contents
 
-### 1️ [[01-Sequences/sequences|Sequences]]
+### 1️ [[01-Sequences/sequences| Sequences]]
 - Geometric & Arithmetic Progressions
 - Recurrence Relations
 - Fibonacci Sequence
 - [[01-Sequences/summation-notation|Summation & Product Notation]]
 - [[01-Sequences/sequences-susanne|Sequences (Susanne's Notes)]]
 
-### 2️ [[02-Number-Theory/number-theory|Number Theory]]
+### 2️ [[02-Number-Theory/number-theory| Number Theory]]
 - Division & Divisibility
 - Modular Arithmetic
 - Primes & GCD
 - Euclidean Algorithm
 - Bézout's Theorem
 
-### 3️ [[03-Counting/counting|Counting]]
+### 3️ [[03-Counting/counting| Counting]]
 - Product Rule & Sum Rule
 - Division Rule
 - Pigeonhole Principle
 
-### 4️ [[04-Permutations-Combinations/binomial-theorem|Permutations & Combinations]]
+### 4️ [[04-Permutations-Combinations/binomial-theorem| Permutations & Combinations]]
 - $r$-Permutations
 - Combinations
 - Binomial Theorem
 - Pascal's Identity
 - Vandermonde's Identity
 
-### 5️ [[05-Mathematical-Induction/practice-midterm|Mathematical Induction]]
+### 5️ [[05-Mathematical-Induction/practice-midterm| Mathematical Induction]]
 - Principle of Mathematical Induction
 - Basis Step & Inductive Step
 - Practice Problems
 
-### 6️ [[06-Probability/discrete-probability|Discrete Probability]]
+### 6️ [[06-Probability/discrete-probability| Discrete Probability]]
 - Probability Distributions
 - Conditional Probability
 - Independence
@@ -47,7 +47,7 @@ Comprehensive notes for Discrete Structures, written in Obsidian.
 - Binomial & Hypergeometric Distributions
 - Expected Value
 
-### 7️7 [[07-Graphs/graph-theory|Graph Theory]]
+### 7️7 [[07-Graphs/graph-theory| Graph Theory]]
 - Graph Definitions & Types
 - Directed vs Undirected
 - Handshake Lemma
